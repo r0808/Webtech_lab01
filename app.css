@@ -1,0 +1,15 @@
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
